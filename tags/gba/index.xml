@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gba on Aaron Balke</title>
+    <link>https://example.org/tags/gba/</link>
+    <description>Recent content in Gba on Aaron Balke</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/gba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GBA Interrupts, and Exceptions</title>
+      <link>https://example.org/posts/interrupts-inter-interrupts/</link>
+      <pubDate>Tue, 01 Jul 2025 23:48:56 -0600</pubDate>
+      <guid>https://example.org/posts/interrupts-inter-interrupts/</guid>
+      <description>&lt;p&gt;If like me you are jumping to emulating the GBA after the DMG/GBC, you may be in&#xA;a world of hurt when it comes to interrupts, exceptions and other advanced (ha)&#xA;CPU behaviors. For starters lets outline some emulator implimentation considerations.&#xA;First, cycles matter significantly less on the GBA. This is because with the 2-4x faster&#xA;cpu, and opcode pretching - having expectations on specific opocdes completing at&#xA;certain times becomes impossible. Second, you will want to start with a bios file.&#xA;Do not make my mistake and try implimenting a HLE Bios from the start, it caused&#xA;me a world of heart and most of my problems (Huffman Encoding is black magic).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

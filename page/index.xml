@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Aaron Balke</title>
+    <link>https://example.org/page/</link>
+    <description>Recent content in Pages on Aaron Balke</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jul 2025 23:59:40 -0600</lastBuildDate>
+    <atom:link href="https://example.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VDay2025</title>
+      <link>https://example.org/page/vday2025/</link>
+      <pubDate>Tue, 01 Jul 2025 23:59:40 -0600</pubDate>
+      <guid>https://example.org/page/vday2025/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>
